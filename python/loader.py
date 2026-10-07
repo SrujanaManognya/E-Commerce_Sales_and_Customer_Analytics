@@ -4,7 +4,7 @@ from sqlalchemy import create_engine
 df = pd.read_csv("Data/processed/analytical_order_level.csv")
 
 username = "postgres"
-password = "f0rFutur3"
+password = "##########"
 host = "localhost"
 port = "5432"
 database = "E-Commerce Sales & Customer Analytics"
